@@ -247,8 +247,6 @@ if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra ===
 return "Dato incorecto"
 }
 
-
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
